@@ -1,6 +1,7 @@
 {
   "BraTS-PEDs2024_Training/BraTS-PED-00001-000": {
-    
+    "folder": "BraTS-PEDs2024_Training",
+    "subject_id": "BraTS-PED-00001-000",
     "modalities": {
       "SEG": "/home/ajay/Documents/auto-rapno/data/raw/BraTS-PEDs2024_Training/BraTS-PED-00001-000/BraTS-PED-00001-000-seg.nii.gz",
       "T1C": "/home/ajay/Documents/auto-rapno/data/raw/BraTS-PEDs2024_Training/BraTS-PED-00001-000/BraTS-PED-00001-000-t1c.nii.gz",

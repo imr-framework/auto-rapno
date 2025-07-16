@@ -92,7 +92,7 @@ def visualize_subject(t1_path, t1ce_path, t2f_path, t2w_path, seg_path=None):
     plt.show()
 
 if __name__ == "__main__":
-    base_dir = "/home/ajay/Documents/auto-rapno/data/raw/BraTS-PEDs2024_Training/BraTS-PED-00001-000"
+    base_dir = "data/raw/BraTS-PEDs2024_Training/BraTS-PED-00006-000"
     # Find all relevant files in the directory
     files = os.listdir(base_dir)
     t1_path = os.path.join(base_dir, next(f for f in files if "-t1n.nii.gz" in f))
